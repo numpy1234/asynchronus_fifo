@@ -1,1 +1,1 @@
-Asynchronus FIFO
+Asynchronous FIFO
